@@ -1,0 +1,11 @@
+*.png
+*.ini
+*.pdf
+__pycache__/
+tempCodeRunnerFile.py
+tomasiak.py
+GPT.py
+GPT2.py
+GPT_version_1.py
+Tomasiak.py
+mainTomasiak.py
